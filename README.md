@@ -10,3 +10,5 @@
 ![Step2](SS/SS2.png)
 3. Membuat Desctription List
 ![Step3](SS/SS3.png)
+3. Membuat Eksperimen Pada Dokumen List
+![Step4](SS/SS4.png)
