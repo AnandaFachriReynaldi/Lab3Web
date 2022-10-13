@@ -20,3 +20,5 @@
 ### Membuat File HTML Form
 7. Membuat Form Sederhana
 ![Step7](SS/SS7.png)
+8. Menambahkan Style Pada Form
+![Step8](SS/SS8.png)
