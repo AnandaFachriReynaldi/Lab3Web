@@ -17,3 +17,6 @@
 ![Step5](SS/SS5.png)
 6. Menggabungkan Sel Data Menggunakan Atribut Rowspan dan Mengatur Cellpading <br />
 ![Step6](SS/SS6.png)
+### Membuat File HTML Form
+7. Membuat Form Sederhana
+![Step7](SS/SS7.png)
