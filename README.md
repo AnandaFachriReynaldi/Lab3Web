@@ -22,3 +22,7 @@
 ![Step7](SS/SS7.png)
 8. Menambahkan Style Pada Form
 ![Step8](SS/SS8.png)
+
+### Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+![Step9](SS/SS9.png)
